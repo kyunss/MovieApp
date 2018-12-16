@@ -18,6 +18,7 @@
 		653AAEB121C3DF110042F561 /* Movie.swift in Sources */ = {isa = PBXBuildFile; fileRef = 653AAEB021C3DF110042F561 /* Movie.swift */; };
 		653AAEB321C3E04D0042F561 /* TabBarController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 653AAEB221C3E04D0042F561 /* TabBarController.swift */; };
 		653AAEB721C3F7AB0042F561 /* TableViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 653AAEB621C3F7AB0042F561 /* TableViewController.swift */; };
+		653AAEB921C491710042F561 /* MovieCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 653AAEB821C491710042F561 /* MovieCell.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -55,6 +56,7 @@
 		653AAEB021C3DF110042F561 /* Movie.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Movie.swift; sourceTree = "<group>"; };
 		653AAEB221C3E04D0042F561 /* TabBarController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TabBarController.swift; sourceTree = "<group>"; };
 		653AAEB621C3F7AB0042F561 /* TableViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TableViewController.swift; sourceTree = "<group>"; };
+		653AAEB821C491710042F561 /* MovieCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MovieCell.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -85,6 +87,7 @@
 		652A588C21C3B82C008D0810 = {
 			isa = PBXGroup;
 			children = (
+				653AAEB821C491710042F561 /* MovieCell.swift */,
 				653AAEB621C3F7AB0042F561 /* TableViewController.swift */,
 				652A58C621C3B847008D0810 /* Launch Screen.storyboard */,
 				652A589721C3B82C008D0810 /* MovieApp */,
@@ -271,6 +274,7 @@
 			files = (
 				652A589B21C3B82C008D0810 /* ViewController.swift in Sources */,
 				653AAEB321C3E04D0042F561 /* TabBarController.swift in Sources */,
+				653AAEB921C491710042F561 /* MovieCell.swift in Sources */,
 				652A589921C3B82C008D0810 /* AppDelegate.swift in Sources */,
 				653AAEB721C3F7AB0042F561 /* TableViewController.swift in Sources */,
 				653AAEB121C3DF110042F561 /* Movie.swift in Sources */,
